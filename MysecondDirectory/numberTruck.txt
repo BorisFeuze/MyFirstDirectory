@@ -1,5 +1,3 @@
 Truck 1
 Truck 2
 Truck 3
-Truck 4
-Truck 5
